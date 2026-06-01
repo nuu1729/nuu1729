@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hayate+Takeda+%F0%9F%91%8B;Full-Stack+%2B+AI+Engineer;Building+AI+Agents+with+Claude+API" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+Hayate+%F0%9F%91%8B;Full-Stack+%2B+AI+Engineer;Building+AI+Agents+with+Claude+API" alt="Typing SVG" />
 
 <br/>
 
@@ -12,16 +12,12 @@
 
 ## 🧑‍💻 About Me / 自己紹介
 
-```typescript
-const hayate = {
-  name:     "Hayate Takeda / 高田 隼",
-  company:  "Setouchi System",
-  focus:    ["AI Agent Development", "Full-Stack Web", "Cloud Infrastructure"],
-  currently: "Building an AI-powered meeting assistant with Claude API 🤖",
-  learning:  ["LLM Application Design", "Cloudflare Workers", "Edge Computing"],
-  hobbies:   ["🏃 Sports & Outdoor", "🎮 Gaming", "📚 Reading & Learning"],
-};
-```
+**武田颯 / Hayate Takeda**
+
+- 🤖 Currently building an **AI-powered meeting assistant** using Claude API & Recall.ai
+- ☁️ Interested in **Edge Computing** and **Cloudflare Workers**
+- 📖 Always learning — LLM application design, AI agent architecture
+- 💬 Ask me about **TypeScript**, **Next.js**, or **AI agents**
 
 ---
 
@@ -51,7 +47,8 @@ const hayate = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=nuu1729&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=nuu1729&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+&nbsp;
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuu1729&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
@@ -66,7 +63,7 @@ const hayate = {
 
 ## 🎯 Interests
 
-- 🏃‍♂️ **Sports & Outdoor** — Running, hiking and anything that gets me outside
+- 🏃‍♂️ **Sports & Outdoor** — Running, hiking, and anything outdoors
 - 🎮 **Gaming** — Strategy & RPG
 - 📚 **Reading & Learning** — Tech books, AI research papers
 
