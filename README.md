@@ -55,14 +55,6 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=nuu1729&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuu1729&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=nuu1729&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j)
 
 </div>
