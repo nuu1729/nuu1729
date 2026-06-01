@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+Hayate+%F0%9F%91%8B;Full-Stack+%2B+AI+Engineer;Building+AI+Agents+with+Claude+API" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Hayate+%F0%9F%91%8B;CS+Student+%2B+Part-time+Engineer;Research%3A+Evidence+Theory+%26+Design;Building+AI+Agents+with+Claude+API" alt="Typing SVG" />
 
 <br/>
 
@@ -13,6 +13,14 @@
 ## 🧑‍💻 About Me / 自己紹介
 
 **武田颯 / Hayate Takeda**
+
+🎓 **University Student** — [Artificial Design Lab](https://adl.cse.oka-pu.ac.jp/), Okayama Prefectural University
+
+🔬 **Research** — Evaluating the confidence of design hypotheses based on **Evidence Theory** (証拠理論に基づいた設計仮説の確信度評価)
+
+💻 **Part-time Engineer** — Building AI-powered web applications
+
+---
 
 - 🤖 Currently building an **AI-powered meeting assistant** using Claude API & Recall.ai
 - ☁️ Interested in **Edge Computing** and **Cloudflare Workers**
