@@ -51,9 +51,9 @@
 | Project | Description | Stack |
 |---|---|---|
 | 🤖 **AI Meeting Agent** | Real-time transcription & AI advisor for meetings | Next.js · Cloudflare · Claude API · Recall.ai |
-| 🍳 **料理原価計算システム** | Food cost management web app for restaurant owners | React · Flask · MySQL · Docker |
-| 🎓 **OPU Info Hub** | Student life support web for Okayama Prefectural University | Next.js · TypeScript |
-| 🃏 **English Swipe Quiz** | Mobile-friendly English Yes/No quiz with swipe UI | React · TypeScript |
+| 🍳 **[料理原価計算システム](https://github.com/nuu1729/cooking-cost-system)** | Food cost management web app for restaurant owners | React · Flask · MySQL · Docker |
+| 🎓 **[OPU Info Hub](https://github.com/sekkeikai/OPU_Info_Hub)** | Student life support web for Okayama Prefectural University | Next.js · Python · Docker |
+| 🃏 **[English Swipe Quiz](https://github.com/nuu1729/english-swipe-quiz)** | Mobile-friendly English Yes/No quiz with swipe UI | React · TypeScript |
 
 ---
 
