@@ -32,17 +32,24 @@
 ## 🛠 Tech Stack
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,c,cs,cpp,go&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,c,cs,cpp,go,java,php,html&theme=dark)](https://skillicons.dev)
 
 ### Frameworks & Runtime
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,flask&theme=dark)](https://skillicons.dev)
 
 ### Infrastructure & Tools
-[![My Skills](https://skillicons.dev/icons?i=cloudflare,docker,postgres,mysql,github,vscode,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,cloudflare,docker,linux,arduino,postgres,mysql,github,vscode,git&theme=dark)](https://skillicons.dev)
+
+### Data Science
+[![My Skills](https://skillicons.dev/icons?i=anaconda&theme=dark)](https://skillicons.dev)
 
 ### AI / ML
 ![Claude API](https://img.shields.io/badge/Claude_API-D4722A?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logoColor=white)
+
+### Communication & Others
+[![My Skills](https://skillicons.dev/icons?i=discord,notion&theme=dark)](https://skillicons.dev)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 ---
 
