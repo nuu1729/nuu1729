@@ -31,11 +31,14 @@
 
 ## 🛠 Tech Stack
 
-### Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs&theme=dark)](https://skillicons.dev)
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,c,cs,cpp,go&theme=dark)](https://skillicons.dev)
+
+### Frameworks & Runtime
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,flask&theme=dark)](https://skillicons.dev)
 
 ### Infrastructure & Tools
-[![My Skills](https://skillicons.dev/icons?i=cloudflare,postgres,github,vscode,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,docker,postgres,mysql,github,vscode,git&theme=dark)](https://skillicons.dev)
 
 ### AI / ML
 ![Claude API](https://img.shields.io/badge/Claude_API-D4722A?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -48,6 +51,9 @@
 | Project | Description | Stack |
 |---|---|---|
 | 🤖 **AI Meeting Agent** | Real-time transcription & AI advisor for meetings | Next.js · Cloudflare · Claude API · Recall.ai |
+| 🍳 **料理原価計算システム** | Food cost management web app for restaurant owners | React · Flask · MySQL · Docker |
+| 🎓 **OPU Info Hub** | Student life support web for Okayama Prefectural University | Next.js · TypeScript |
+| 🃏 **English Swipe Quiz** | Mobile-friendly English Yes/No quiz with swipe UI | React · TypeScript |
 
 ---
 
